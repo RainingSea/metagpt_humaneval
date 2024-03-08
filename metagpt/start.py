@@ -1,7 +1,9 @@
 import sys
+import os
 import jsonlines
 
-sys.path.append("/home/molyer/project/metagpt/MetaGPT-0.7-humaneval/")
+current_dir = os.getcwd()
+sys.path.append(current_dir)
 
 from software_company import generate_repo, ProjectRepo
 

@@ -1,6 +1,9 @@
 #### no commercial use, only for research
 #### modified for HumanEval
 
+## 运行方式
+直接运行 metagpt/start.py 文件即可
+
 
 # MetaGPT: The Multi-Agent Framework
 
