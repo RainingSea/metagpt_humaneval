@@ -1,3 +1,6 @@
+#### no commercial use, only for research
+#### modified for HumanEval
+
 
 # MetaGPT: The Multi-Agent Framework
 
